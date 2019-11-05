@@ -4,11 +4,11 @@
 ## Project Write-Ups
 
 ### LEDs: 
-1. original.js: In this assignment we were tasked to build the circuit from the SparkFun breakout board hookup guide and in result, we would have 3 LEDs of different colors cycling through each other in a sequence, with the use of the micro-bit pins. I used pins P4, P7, and P10 respectively.
+1. original.js: In this assignment we were tasked to build the circuit from the SparkFun breakout board hookup guide and in result, we would have 3 LEDs of different colors cycling through each other in a sequence, with the use of the micro-bit pins and the proper orientation of all parts. I used pins P4, P7, and P10 respectively.
 
     URL:
 
-2. enable-matrix.js: In this assignment we were asked to reconfigure the circuit in 'Original.js'and rewrite the program to avoid disabling the LED matrix. As well as add code to demonstrate that the LED matrix is enabled. I used pins P1, P2, and P8 respectively. 
+2. enable-matrix.js: In this assignment we were asked to reconfigure the circuit in 'Original.js' and rewrite the program to avoid disabling the LED matrix. As well as add code to demonstrate that the LED matrix is enabled. The correct 3 pins had to be selected from the micro:bit GPIO function table. I used pins P1, P2, and P8 respectively. 
 
     URL:
 
