@@ -17,3 +17,14 @@
     URL:
 
 ### Soil Sensor:
+1. digital-in.js:
+
+    URL:
+
+2. manual-calibration.js:
+
+    URL:
+
+3. auto-calibration.js:
+
+    URL:
