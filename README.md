@@ -18,7 +18,7 @@
 ### Soil Sensor:
 1. digital-in.js: For this assignment (Keeping at least one analog output pin) we were tasked to open a digital input pin and hook it up to a TTL input button on the workstation. My assignment will Light the external LED when you detect a 1 on the input button (that is, the button is pressed). 
 
-    URL:
+    URL: https://imgur.com/gallery/ESHzJ0I
 
 2. manual-calibration.js: For this assigment, using the soil moisture sensor, we were tasked to write a program that allows us to manually calibrate the sensor, and read in the sensor's data. We mapped the range of input values of the sensor to the range 0-4. For the minimum value, we took a reading with a dry sensor not touching anything; Followed by taking a reading with the sensor prongs dipped in shallow water, for the maximum value. When the sensor takes a sensor reading, it lights up as many rows of the LED matrix as correspond to the rescaled magnitude of the reading.
 
