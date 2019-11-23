@@ -1,4 +1,5 @@
-// Reconfigure the circuit in 'Original.js'and rewrite the program to avoid disabling the LED matrix. Add code to demonstrate that the LED matrix is enabled. 
+/* Reconfigured the circuit in 'Original.js'and rewrite the program to avoid disabling the LED matrix. 
+Added code to demonstrate that the LED matrix is enabled. */
 
 // Variables
 led.enable(true) // LED enabled
