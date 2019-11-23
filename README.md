@@ -6,7 +6,7 @@
 ### LEDs: 
 1. original.js: In this assignment we were tasked to build the circuit from the SparkFun breakout board hookup guide. In result, we have 3 LEDs of different colors cycling through each other in a sequence, with the use of the micro-bit pins and the proper orientation of all parts.
 
-    Link to file: [Here](original.js)
+    Link to file: [Here](original-guide.js)
 
     URL: https://imgur.com/gallery/meuADCS
 
