@@ -1,4 +1,8 @@
-/* This program will programmatically calibrate the soil sensor and measure water levels. It will take 3 sensor readings of the low and three readings of the high values of the range. When done, it will use the readings of the values to calibrate the sensor. The Micro-bit will light up as many rows of the LED matrix as correspond to the rescaled magnitude of the readings (when using the soil sensor). */
+/* This program will programmatically calibrate the soil sensor and measure water levels. 
+It will take 3 sensor readings of the low and three readings of the high values of the range. 
+When done, it will use the readings of the values to calibrate the sensor. 
+The Micro-bit will light up as many rows of the LED matrix as correspond to the rescaled magnitude of the readings 
+(when using the soil sensor). */
 
 // Variables
 let value1 = 0;
