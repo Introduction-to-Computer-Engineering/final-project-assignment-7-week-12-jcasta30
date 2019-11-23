@@ -1,4 +1,4 @@
-/* Having a functioning 5x5 LED matrix and 3 external LEDs, extend your favorite screensaver program to include the 
+/* Having a functioning 5x5 LED matrix and 3 external LEDs, extended my favorite screensaver program to include the 
 external LEDs into the changing pattern. */
 
 // Variables
