@@ -1,4 +1,6 @@
-/* This program will use a manually calibrated soil sensor to measure water levels. Then it will take the sensor readings and light up as many rows of the LED matrix as correspond to the rescaled magnitude of the readings. */
+/* This program will use a manually calibrated soil sensor to measure water levels. 
+Then it will take the sensor readings and light up as many rows of the LED matrix as correspond to the rescaled magnitude of the readings. 
+*/
 
 basic.forever(function () 
 { 
